@@ -7,7 +7,7 @@ The book is a learning tool meant to be used in different contexts, to process t
 
 “Plans are not made with clear and prescribed end points. Plans are made for the journey, and decisions are made along the way.” -Theresa Giorza, from the Preface.   
  	
-<strong>Framework of Process Park Cycle:</strong>\                                                                 	           	
+<strong>Framework of Process Park Cycle:</strong>                                                                 	           	
 
 <strong>Space for Conversation</strong>\\<strong>Space for Consideration</strong>\\<strong>Space for Implementation</strong>
 
@@ -15,7 +15,7 @@ The book is a learning tool meant to be used in different contexts, to process t
 <ul>Consideration: Sleep, Dream, Associate: Verbal Reflection – Written Reflection in Github – any and all manner of visual, video, and object responses</ul>
   <ul>Implementation: Work/Practice, Techne, Lunch</ul>
 
-<p><strong>The Process of Archiving</strong>\: Archiving, documenting, and writing about the cycles of Conversation, Consideration, and Implementation, will be a key ongoing <em>process!</em> during the residency month. Contribute your thoughts for each cycle in the corresponding Project Column by licking the + on your column. 
+<p><strong>The Process of Archiving</strong>: Archiving, documenting, and writing about the cycles of Conversation, Consideration, and Implementation, will be a key ongoing <em>process!</em> during the residency month. Contribute your thoughts for each cycle in the corresponding Project Column by licking the + on your column. 
  
 This will become our collective work, thinking through texts, our writing here during consideration sessions, our conversations and insights generated during site visits, and any and all material deposited into the residency Github. 
 
