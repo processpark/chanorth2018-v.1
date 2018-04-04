@@ -1,11 +1,13 @@
 # chanorth2018-v.1
 Process Park focuses on reinserting ourselves into the act of production, to interrupt the paradigm of contemporary alienation.
 
-Our Working Framework is based on the Keleketla! Library's model of community education, an experimental library and collective based in Johannesburg, South Africa: https://keleketla.org/. The Keleketla! Book (58 Years Since the Treason Trial) is meant to be used in different contexts, to process through the meaning of a place, generate a collaborative framework for artists, educators, and creative practitioners, and think through documentation of a collective effort.
+Our Working Framework from week to week is based on the organizing structure of a book from the Keleketla! Library, 58 Years To the Treason Trial. Keleketla! was an experimental library and collective running for a decade n Johannesburg, South Africa: https://keleketla.org/. 
 
-“Plans are not made with clear and prescribed end points. Plans are made for the journey, and decisions are made along the way.”    
+The book is a learning tool meant to be used in different contexts, to process through the meaning of a place. Applied here, it will help generate a collaborative framework for artists, educators, and creative practitioners, and help document this collective effort.
+
+“Plans are not made with clear and prescribed end points. Plans are made for the journey, and decisions are made along the way.” -Theresa Giorza, from the Preface.   
  	
-Framework of Process Park Cycle:                                                                 	           	
+<strong>Framework of Process Park Cycle:</strong>\                                                                 	           	
 
 <strong>Space for Conversation</strong>\\<strong>Space for Consideration</strong>\\<strong>Space for Implementation</strong>
 
@@ -13,7 +15,7 @@ Framework of Process Park Cycle:
 <ul>Consideration: Sleep, Dream, Associate: Verbal Reflection – Written Reflection in Github – any and all manner of visual, video, and object responses</ul>
   <ul>Implementation: Work/Practice, Techne, Lunch</ul>
 
-<p>The Process of Archiving: Archiving, documenting, and writing about the cycles of Conversation, Consideration, and Implementation, will be a key ongoing <em>process!</em> during the residency month. Contribute your thoughts for each cycle in the corresponding Project Column by licking the + on your column. 
+<p><strong>The Process of Archiving</strong>\: Archiving, documenting, and writing about the cycles of Conversation, Consideration, and Implementation, will be a key ongoing <em>process!</em> during the residency month. Contribute your thoughts for each cycle in the corresponding Project Column by licking the + on your column. 
  
 This will become our collective work, thinking through texts, our writing here during consideration sessions, our conversations and insights generated during site visits, and any and all material deposited into the residency Github. 
 
