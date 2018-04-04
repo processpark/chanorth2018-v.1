@@ -1,7 +1,7 @@
 # chanorth2018-v.1
 Process Park focuses on reinserting ourselves into the act of production, to interrupt the paradigm of contemporary alienation.
 
-Our Working Framework from week to week is based on the organizing structure of a book from the Keleketla! Library, 58 Years To the Treason Trial. Keleketla! was an experimental library and collective running for a decade n Johannesburg, South Africa: https://keleketla.org/. 
+Our Working Framework from week to week is based on the organizing structure of a book from the Keleketla! Library, <em>58 Years To the Treason Trial</em>. Keleketla! was an experimental library and collective running for a decade in Johannesburg, South Africa: https://keleketla.org/. 
 
 The book is a learning tool meant to be used in different contexts, to process through the meaning of a place. Applied here, it will help generate a collaborative framework for artists, educators, and creative practitioners, and help document this collective effort.
 
