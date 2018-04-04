@@ -13,7 +13,9 @@ Framework of Process Park Cycle:
 <ul>Consideration: Sleep, Dream, Associate: Verbal Reflection – Written Reflection in Github – any and all manner of visual, video, and object responses</ul>
   <ul>Implementation: Work/Practice, Techne, Lunch</ul>
 
-<p>The Process of Archiving: Archiving, documenting, and writing about the cycles of Conversation, Consideration, and Implementation, will be a key ongoing <em>process!</em> during the residency month. This will consist of our collective work and thinking through texts, our writing here during consideration sessions, our conversations and insights generated during site visits, and any and all material deposited into the residency Github. 
+<p>The Process of Archiving: Archiving, documenting, and writing about the cycles of Conversation, Consideration, and Implementation, will be a key ongoing <em>process!</em> during the residency month. Contribute your thoughts for each cycle in the corresponding Project Column by licking the + on your column. 
+ 
+This will become our collective work, thinking through texts, our writing here during consideration sessions, our conversations and insights generated during site visits, and any and all material deposited into the residency Github. 
 
 The goal is to have, through the Github, a repository of our findings, a way to track our overlaps and intersections as a group, and a method for forking off new strands of inquiry – material, made, or otherwise.
 
